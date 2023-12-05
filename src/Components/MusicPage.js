@@ -190,7 +190,7 @@ export function MusicPage() {
             </div>
             <div id={"projectSelector"} className="absolute z-5 h-max w-screen flex flex-col items-center justify-center select-none space-x-5 space-y-5 visible">
                 <div className={"text-center text-4xl sm-text-5xl md:text-6xl xl:text-8xl font-panic"}>Music and Sound</div>
-                <div className={"text-xs md:text-base lg:text-base w-4/5 sm:w-4/5 4xl:text-xl lg:w-1/2 text-slate-900"}>
+                <div className={"text-xs md:text-base lg:text-base w-4/5 sm:w-4/5 4xl:text-2xl lg:w-1/2 text-slate-900"}>
                     I spend all of my freetime writing music in <b className={"font-bold"}>Ableton Live</b>, playing every instrument myself. I think it's 8 years now? Not sure.<br/>
                     I'm also in an art-pop band that is sometimes called "Sweaty Men", where I sing and play guitar. <div className={"hidden sm:inline"}>We had a concert in Hagenberg, which means we're <b className={"font-bold"}>music industry big-shots</b> now. We don't have a single song on the internet & we don't have any social media, which makes us as indie as it gets, haha.</div><br />
                     I'm still somewhat shy about sharing music, so I'll limit myself to a song that I've written and recorded in 2020 (we made a music video as a project at uni)
